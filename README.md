@@ -50,8 +50,8 @@ Revolutionize your Wi-Fi experience with our innovative Wi-Fi Porter NFC & QR. B
 <h2>Apps to Change Password:</h2>
 
 <p align="center">
-Program Output <br/>
-<img src="https://i.imgur.com/p0AFF2q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+App Screen Shot<br/>
+<img src="https://i.imgur.com/loQS4Ci.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
