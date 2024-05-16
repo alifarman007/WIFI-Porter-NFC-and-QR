@@ -42,7 +42,12 @@ Revolutionize your Wi-Fi experience with our innovative Wi-Fi Porter NFC & QR. B
 <br />
 <br />
 
-<h2>Program Flow Chart:</h2>
+<p align="center">
+<img src="https://yachtporter.com/pub/ea27bde4/yachtporter-connecting.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+<h2>Apps to Change Password:</h2>
 
 <p align="center">
 Program Output <br/>
