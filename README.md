@@ -1,4 +1,4 @@
-<h1>Okos Wi-Fi Porer NFC & QR (Smart WI-FI Connector)</h1>
+<h1>Okos Wi-Fi Porter NFC & QR (Smart WI-FI Connector)</h1>
 
  <p align="center">
 <img src="https://i.imgur.com/5XxHv9Z.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
