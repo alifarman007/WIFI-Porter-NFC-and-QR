@@ -33,20 +33,12 @@ Revolutionize your Wi-Fi experience with our innovative Wi-Fi Porter NFC & QR. B
 - <b>Width: 95 mm</b>
 - <b>Height: 10 mm</b>
 
-<h2>Languages and Utilities Used</h2>
 
-- <b>Python</b> 
-- <b>Pycharm</b>
 
-<h2>Environments Used </h2>
-
-- <b>Windows 10</b> (21H2)
-
-<h2>Program walk-through:</h2>
+<h2>How To Connect:</h2>
 
 <p align="center">
-Program Output <br/>
-<img src="https://i.imgur.com/jTO4u1f.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/THQUMNR.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
