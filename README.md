@@ -6,8 +6,7 @@
 <br />
 
 <h2>Description</h2>
-Hangman is a guessing game. In this game, computer selects a word. Players have a certain number of guesses to guess the characters in the word. If the players are able to guess the characters in the entire word within certain attempts, they win. Otherwise, they lose.
-In this game, there is a list of words present, out of which computer will choose 1 random word. The user first has to input their names and then, will be asked to guess any alphabet. If the random word contains that alphabet, it will be shown as the output(with correct placement) else the program will ask you to guess another alphabet. The user will be given 6 turns to guess the complete word.
+Revolutionize your Wi-Fi experience with our innovative Wi-Fi Porter NFC & QR. By harnessing the power of NFC technology, connecting to Wi-Fi is as simple as tapping your phone on the designated Wi-Fi logo. Instantly, a user-friendly popup interface appears, prompting you to effortlessly connect with just a click. You can also Connect in seconds by scanning the QR code with your device. A user-friendly popup will appear, allowing you to click 'Connect' and seamlessly join the Wi-Fi network. Say goodbye to complicated passwords and tedious setup processes. With Wi-Fi Porter, enjoy fast, secure, and hassle-free connectivity every time.
 <br />
 
 
