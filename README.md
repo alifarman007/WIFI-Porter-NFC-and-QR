@@ -16,6 +16,7 @@ Revolutionize your Wi-Fi experience with our innovative Wi-Fi Porter NFC & QR. B
 <br />
 
 <h2>Materials</h2>
+
 - <b>Material : Wood</b>
 - <b>Structure Color : Light</b>
 - <b>Style : Modern Home</b>
@@ -27,6 +28,7 @@ Revolutionize your Wi-Fi experience with our innovative Wi-Fi Porter NFC & QR. B
 <br />
 
 <h2>Dimensions</h2>
+
 - <b>Length: 125 mm</b>
 - <b>Width: 95 mm</b>
 - <b>Height: 10 mm</b>
